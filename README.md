@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/customer-segmentation.git
+git clone https://github.com/sovitnayak123/customer-segmentation.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -65,9 +65,5 @@ The final output includes visualizations of customer segments based on their age
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to modify this README file to better fit your project's specific details and requirements.
